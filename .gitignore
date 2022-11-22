@@ -1,0 +1,11 @@
+**/.*
+**/~*
+**/*.swp
+**/*.tar.bz2
+**/*.tar.gz
+**/*.tar.xz
+**/PATH.text
+**/LD_LIBRARY_PATH.text
+**/HEADER_SEARCH_OPTIONS.text
+**/LIBRARY_SEARCH_OPTIONS.text
+
